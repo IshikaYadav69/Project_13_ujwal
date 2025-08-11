@@ -1,4 +1,4 @@
-# ✨ Ujwal R's Contribution – Light Mode & UI Components
+ ✨ Ujwal R's Contribution – Light Mode & UI Components
 
 Hi there! I'm **Ujwal R**, and this is my contribution to our collaborative Student Club Website project. Our goal as a team of four students was to create a clean, modern, and responsive interface — and my part focused on the **Light Mode styling** and a set of **interactive UI components** using CSS.
 
@@ -61,5 +61,6 @@ This project is proudly crafted with ❤ by UJWAL R and the talented web develop
 
 To apply **light mode**, just add this class to your `<body>` tag:
 
-```html
+```htm
 <body class="light-mode">
+<body class="light-bright">
